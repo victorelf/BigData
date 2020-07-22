@@ -7,3 +7,4 @@
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
 * [解决Mac应用程序软件不出现在Launchpad里面的方法](https://blog.csdn.net/Jonder_wu/article/details/87923176)
+* [Mac-显示隐藏文件-快捷键与命令行](https://blog.csdn.net/qq_32452623/article/details/73731032)
