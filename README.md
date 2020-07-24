@@ -13,3 +13,4 @@
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
+* [shell脚本实战（第2版）](https://www.ituring.com.cn/book/tupubarticle/25579)
