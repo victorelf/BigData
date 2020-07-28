@@ -8,6 +8,7 @@
 * [scala 中的val 、 var 、def](https://blog.csdn.net/lisulong1/article/details/78783450)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
+* [SparkSession](https://www.jianshu.com/p/4705988b0c84)
 ## MySQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 ## Mac 相关
