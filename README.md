@@ -5,6 +5,7 @@
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
 ## Spark
+* [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 ## MySQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 ## Mac 相关
