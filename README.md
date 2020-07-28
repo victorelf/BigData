@@ -12,6 +12,7 @@
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 * [SQL教程](https://www.yiibai.com/sql/sql-syntax.html)
+* [主键(primary key)和唯一键(unique) 知识点总结](https://www.jianshu.com/p/b09dfc85c235)
 ## Mac 相关
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
