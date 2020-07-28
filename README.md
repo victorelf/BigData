@@ -4,6 +4,7 @@
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
+* [Scala之Object](https://www.cnblogs.com/leesf456/p/6492626.html)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 ## MySQL
