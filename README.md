@@ -25,5 +25,6 @@
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
 * [shell脚本实战（第2版）](https://www.ituring.com.cn/book/tupubarticle/25579)
+* [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
 ## 其他
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
