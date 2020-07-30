@@ -21,6 +21,7 @@
 * [Mac-显示隐藏文件-快捷键与命令行](https://blog.csdn.net/qq_32452623/article/details/73731032)
 * [Mac 上“终端”中的键盘快捷键](https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
+* [Mac OS删除文件和文件夹的命令](https://blog.csdn.net/mouday/article/details/79816973)
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
