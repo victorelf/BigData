@@ -22,6 +22,7 @@
 * [Mac 上“终端”中的键盘快捷键](https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac)
 * [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
 * [Mac OS删除文件和文件夹的命令](https://blog.csdn.net/mouday/article/details/79816973)
+* [Mac Terminal 菜鸟篇之目录跳转命令](https://blog.csdn.net/u010962810/article/details/20370617)
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
