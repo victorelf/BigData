@@ -36,3 +36,4 @@
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
 * [(send disconnect: Broken pipe)让Mac终端保持(SSH)与远程的连接状态](https://blog.csdn.net/yhc166188/article/details/105654609)
 * [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
+* [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
