@@ -24,6 +24,7 @@
 * [Mac OS删除文件和文件夹的命令](https://blog.csdn.net/mouday/article/details/79816973)
 * [Mac Terminal 菜鸟篇之目录跳转命令](https://blog.csdn.net/u010962810/article/details/20370617)
 * [Mac下iTerm2克隆session](https://www.jianshu.com/p/ce5e01375976)
+* [mac中使用rz,sz上传文件](https://juejin.im/post/6844904176707698695)
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
