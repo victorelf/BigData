@@ -33,6 +33,7 @@
 * [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
 * [shell脚本中一些特殊符号](https://www.cnblogs.com/xuxm2007/archive/2011/10/20/2218846.html)
 * [从kinit到kerberos安全机制](https://www.jianshu.com/p/2039fe8c62a1)
+* [Shell 脚本中 '$' 符号的多种用法](https://blog.csdn.net/jake_tian/article/details/97274630)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 ## 其他
