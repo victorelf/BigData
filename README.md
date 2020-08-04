@@ -32,6 +32,7 @@
 * [shell脚本实战（第2版）](https://www.ituring.com.cn/book/tupubarticle/25579)
 * [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
 * [shell脚本中一些特殊符号](https://www.cnblogs.com/xuxm2007/archive/2011/10/20/2218846.html)
+* [从kinit到kerberos安全机制](https://www.jianshu.com/p/2039fe8c62a1)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 ## 其他
