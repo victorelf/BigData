@@ -35,6 +35,7 @@
 * [从kinit到kerberos安全机制](https://www.jianshu.com/p/2039fe8c62a1)
 * [Shell 脚本中 '$' 符号的多种用法](https://blog.csdn.net/jake_tian/article/details/97274630)
 * [shell中各种括号的作用()、(())、[]、[[]]、{}](https://blog.csdn.net/taiyang1987912/article/details/39551385)
+* [linux shell 字符串操作详解 （长度，读取，替换，截取，连接，对比，删除，位置 ）](https://www.cnblogs.com/gaochsh/p/6901809.html)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 ## 其他
