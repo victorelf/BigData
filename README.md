@@ -47,3 +47,4 @@
 * [(send disconnect: Broken pipe)让Mac终端保持(SSH)与远程的连接状态](https://blog.csdn.net/yhc166188/article/details/105654609)
 * [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
+* [从查询插入数据到hive表](https://www.cnblogs.com/ggjucheng/archive/2013/01/04/2844673.html)
