@@ -15,6 +15,7 @@
 * [主键(primary key)和唯一键(unique) 知识点总结](https://www.jianshu.com/p/b09dfc85c235)
 * [sql语句中as的用法和作用](https://www.cnblogs.com/zhaotiancheng/p/6692553.html)
 * [数据库中Schema（模式）概念的理解](https://www.cnblogs.com/csniper/p/5509620.html)
+* [更新表数据（INSERT OVERWRITE and INSERT INTO）](https://help.aliyun.com/document_detail/73775.html)
 ## Mac 相关
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
