@@ -38,6 +38,7 @@
 * [shell中各种括号的作用()、(())、[]、[[]]、{}](https://blog.csdn.net/taiyang1987912/article/details/39551385)
 * [linux shell 字符串操作详解 （长度，读取，替换，截取，连接，对比，删除，位置 ）](https://www.cnblogs.com/gaochsh/p/6901809.html)
 * [Shell - Shell脚本调试方法](https://www.cnblogs.com/anliven/p/6032081.html)
+* [Shell中的IFS解惑](https://blog.csdn.net/whuslei/article/details/7187639)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 ## 其他
