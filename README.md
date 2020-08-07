@@ -9,6 +9,7 @@
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
+* [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 * [SQL教程](https://www.yiibai.com/sql/sql-syntax.html)
