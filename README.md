@@ -45,6 +45,7 @@
 * [详细解析Shell中的IFS变量](https://zhuanlan.zhihu.com/p/36513249)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
+* [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
 ## 其他
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
 * [(send disconnect: Broken pipe)让Mac终端保持(SSH)与远程的连接状态](https://blog.csdn.net/yhc166188/article/details/105654609)
