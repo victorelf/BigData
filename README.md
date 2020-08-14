@@ -58,3 +58,4 @@
 * [从查询插入数据到hive表](https://www.cnblogs.com/ggjucheng/archive/2013/01/04/2844673.html)
 * [Beeline使用](https://my.oschina.net/guol/blog/875875)
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
+* [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
