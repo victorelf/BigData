@@ -6,6 +6,7 @@
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
 * [Scala之Object](https://www.cnblogs.com/leesf456/p/6492626.html)
 * [scala 中的val 、 var 、def](https://blog.csdn.net/lisulong1/article/details/78783450)
+* [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
 * [scala在IDEA中图标的解释](https://www.jianshu.com/p/8887b685c8b9)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
