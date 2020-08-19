@@ -23,6 +23,7 @@
 * [更新表数据（INSERT OVERWRITE and INSERT INTO）](https://help.aliyun.com/document_detail/73775.html)
 * [JOIN关联表中ON,WHERE后面跟条件的区别](https://www.cnblogs.com/zhoug2020/p/4913302.html)
 * [关于Left join，你可能不知道这些......](https://zhuanlan.zhihu.com/p/85856388)
+* [sql子查询 嵌套SELECT语句](https://www.cnblogs.com/wangshenhe/archive/2012/11/28/2792093.html)
 ## Mac 相关
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
