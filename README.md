@@ -63,3 +63,4 @@
 * [Beeline使用](https://my.oschina.net/guol/blog/875875)
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
+* [HBase 深入浅出](https://developer.ibm.com/zh/technologies/analytics/articles/ba-cn-bigdata-hbase/)
