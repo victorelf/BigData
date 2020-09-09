@@ -39,6 +39,8 @@
 * [Mac Terminal 菜鸟篇之目录跳转命令](https://blog.csdn.net/u010962810/article/details/20370617)
 * [Mac下iTerm2克隆session](https://www.jianshu.com/p/ce5e01375976)
 * [mac中使用rz,sz上传文件](https://juejin.im/post/6844904176707698695)
+* [(send disconnect: Broken pipe)让Mac终端保持(SSH)与远程的连接状态](https://blog.csdn.net/yhc166188/article/details/105654609)
+* [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
@@ -66,8 +68,6 @@
 * [从查询插入数据到hive表](https://www.cnblogs.com/ggjucheng/archive/2013/01/04/2844673.html)
 ## 其他
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
-* [(send disconnect: Broken pipe)让Mac终端保持(SSH)与远程的连接状态](https://blog.csdn.net/yhc166188/article/details/105654609)
-* [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
