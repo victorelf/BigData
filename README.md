@@ -10,6 +10,7 @@
 * [What does a lazy val do?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
 * [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
 * [scala在IDEA中图标的解释](https://www.jianshu.com/p/8887b685c8b9)
+* [Scala模式匹配](https://www.lagou.com/lgeduarticle/38336.html)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
