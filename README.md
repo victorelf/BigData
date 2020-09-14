@@ -71,4 +71,5 @@
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
+* [大数据知识]（https://www.yuque.com/zhangyiwang/yqm7oo）
 
