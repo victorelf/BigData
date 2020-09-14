@@ -66,6 +66,7 @@
 ## Hbase、Hive
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
 * [HBase 深入浅出](https://developer.ibm.com/zh/technologies/analytics/articles/ba-cn-bigdata-hbase/)
+* [HBase总结（1）-- 数据插入与Put对象](https://blog.csdn.net/u011518678/article/details/50790193)
 * [Beeline使用](https://my.oschina.net/guol/blog/875875)
 * [从查询插入数据到hive表](https://www.cnblogs.com/ggjucheng/archive/2013/01/04/2844673.html)
 ## 其他
