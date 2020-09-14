@@ -11,6 +11,7 @@
 * [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
 * [scala在IDEA中图标的解释](https://www.jianshu.com/p/8887b685c8b9)
 * [Scala模式匹配_match](https://www.lagou.com/lgeduarticle/38336.html)
+* [Spark SQL 数据统计 Scala 开发小结](https://cloud.tencent.com/developer/article/1005690)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
