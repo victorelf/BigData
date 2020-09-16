@@ -64,6 +64,7 @@
 * [vim 光标快速移动技巧总结](https://blog.csdn.net/llzhang_fly/article/details/80474966)
 ## Flink
 * [Flink 如何使用 ProcessFunction](https://toutiao.io/posts/33a9kw/preview)
+* [Flink学习笔记：Operators之Process Function](https://www.cnblogs.com/dajiangtai/p/10683729.html)
 ## Hbase、Hive
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
 * [HBase 深入浅出](https://developer.ibm.com/zh/technologies/analytics/articles/ba-cn-bigdata-hbase/)
