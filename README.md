@@ -70,6 +70,7 @@
 * [HBase 深入浅出](https://developer.ibm.com/zh/technologies/analytics/articles/ba-cn-bigdata-hbase/)
 * [HBase总结（1）-- 数据插入与Put对象](https://blog.csdn.net/u011518678/article/details/50790193)
 * [HBase支持的数据类型](https://www.w3cschool.cn/hbase_doc/hbase_doc-6yah2mio.html)
+* [String.getBytes()和Bytes.toBytes(字符串数据)之间的区别](https://cloud.tencent.com/developer/ask/68532)
 * [Beeline使用](https://my.oschina.net/guol/blog/875875)
 * [从查询插入数据到hive表](https://www.cnblogs.com/ggjucheng/archive/2013/01/04/2844673.html)
 ## 其他
