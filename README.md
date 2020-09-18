@@ -20,6 +20,7 @@
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
+* [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 * [SQL教程](https://www.yiibai.com/sql/sql-syntax.html)
