@@ -67,7 +67,7 @@
 ## Flink
 * [Flink 如何使用 ProcessFunction](https://toutiao.io/posts/33a9kw/preview)
 * [Flink学习笔记：Operators之Process Function](https://www.cnblogs.com/dajiangtai/p/10683729.html)
-## Hbase、Hive
+## Hbase、Hive、HDFS
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
 * [HBase 深入浅出](https://developer.ibm.com/zh/technologies/analytics/articles/ba-cn-bigdata-hbase/)
 * [HBase总结（1）-- 数据插入与Put对象](https://blog.csdn.net/u011518678/article/details/50790193)
@@ -75,6 +75,7 @@
 * [String.getBytes()和Bytes.toBytes(字符串数据)之间的区别](https://cloud.tencent.com/developer/ask/68532)
 * [Beeline使用](https://my.oschina.net/guol/blog/875875)
 * [从查询插入数据到hive表](https://www.cnblogs.com/ggjucheng/archive/2013/01/04/2844673.html)
+* [FileSystem.get从缓存cache中获得连接导致的问题](https://my.oschina.net/cjun/blog/669087)
 ## 其他
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
