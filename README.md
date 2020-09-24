@@ -5,6 +5,7 @@
 * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
+* [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
