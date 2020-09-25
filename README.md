@@ -93,4 +93,4 @@
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
-
+* [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
