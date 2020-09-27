@@ -22,6 +22,7 @@
 * [Spark SQL 数据统计 Scala 开发小结](https://cloud.tencent.com/developer/article/1005690)
 * [What are all the uses of an underscore in Scala?](https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala)
 * [Scala中的mkString](https://blog.csdn.net/liu16659/article/details/80427381)
+* [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
