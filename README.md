@@ -97,3 +97,4 @@
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
 * [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
+* [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
