@@ -55,6 +55,7 @@
 * [mac中使用rz,sz上传文件](https://juejin.im/post/6844904176707698695)
 * [(send disconnect: Broken pipe)让Mac终端保持(SSH)与远程的连接状态](https://blog.csdn.net/yhc166188/article/details/105654609)
 * [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
+* [收集了这么多实用技巧，帮助你的 iterm2 成为最帅的那个！](https://blog.csdn.net/javageektech/article/details/103966594)
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
