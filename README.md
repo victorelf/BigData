@@ -73,6 +73,7 @@
 * [Shell中的IFS解惑](https://blog.csdn.net/whuslei/article/details/7187639)
 * [详细解析Shell中的IFS变量](https://zhuanlan.zhihu.com/p/36513249)
 * [Shell脚本的执行过程、执行方式详解](https://blog.51cto.com/14157628/2432456)
+* [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
