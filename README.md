@@ -75,6 +75,7 @@
 * [Shell脚本的执行过程、执行方式详解](https://blog.51cto.com/14157628/2432456)
 * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 * [COMMAND LINE POWER USER](https://commandlinepoweruser.com/)
+* [nohup和&后台运行，进程查看及终止](https://www.cnblogs.com/baby123/p/6477429.html)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
