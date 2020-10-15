@@ -42,9 +42,8 @@
 * [JOIN关联表中ON,WHERE后面跟条件的区别](https://www.cnblogs.com/zhoug2020/p/4913302.html)
 * [关于Left join，你可能不知道这些......](https://zhuanlan.zhihu.com/p/85856388)
 * [SELECT中常用的子查询操作](https://www.cnblogs.com/geaozhang/p/6756825.html)
-## Mac 相关
+## Mac、iTerm
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
-* [IntelliJ IDEA  Mac 版本的快捷键](https://www.cnblogs.com/name-lizonglin/p/13298209.html)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
 * [解决Mac应用程序软件不出现在Launchpad里面的方法](https://blog.csdn.net/Jonder_wu/article/details/87923176)
 * [Mac-显示隐藏文件-快捷键与命令行](https://blog.csdn.net/qq_32452623/article/details/73731032)
@@ -58,6 +57,9 @@
 * [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
 * [收集了这么多实用技巧，帮助你的 iterm2 成为最帅的那个！](https://blog.csdn.net/javageektech/article/details/103966594)
 * [iterm2保存ssh连接信息](https://www.dyxmq.cn/other/save-ssh-profile-in-iterm2.html)
+## IDEA
+* [IntelliJ IDEA  Mac 版本的快捷键](https://www.cnblogs.com/name-lizonglin/p/13298209.html)
+* [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 ## shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
@@ -67,7 +69,6 @@
 * [从kinit到kerberos安全机制](https://www.jianshu.com/p/2039fe8c62a1)
 * [Shell 脚本中 '$' 符号的多种用法](https://blog.csdn.net/jake_tian/article/details/97274630)
 * [shell中各种括号的作用()、(())、[]、[[]]、{}](https://blog.csdn.net/taiyang1987912/article/details/39551385)
-* [linux shell 字符串操作详解 （长度，读取，替换，截取，连接，对比，删除，位置 ）](https://www.cnblogs.com/gaochsh/p/6901809.html)
 * [Shell - Shell脚本调试方法](https://www.cnblogs.com/anliven/p/6032081.html)
 * [Shell脚本调试技术](https://www.ibm.com/developerworks/cn/linux/l-cn-shell-debug/)
 * [Shell中的IFS解惑](https://blog.csdn.net/whuslei/article/details/7187639)
@@ -75,7 +76,10 @@
 * [Shell脚本的执行过程、执行方式详解](https://blog.51cto.com/14157628/2432456)
 * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 * [COMMAND LINE POWER USER](https://commandlinepoweruser.com/)
+## Linux
+* [Linux权限详解（chmod、600、644、666、700、711、755、777、4755、6755、7755）](https://blog.csdn.net/u013197629/article/details/73608613)
 * [nohup和&后台运行，进程查看及终止](https://www.cnblogs.com/baby123/p/6477429.html)
+* [linux shell 字符串操作详解 （长度，读取，替换，截取，连接，对比，删除，位置 ）](https://www.cnblogs.com/gaochsh/p/6901809.html)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
@@ -100,7 +104,6 @@
 ## 其他
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
-* [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
 * [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
