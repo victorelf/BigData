@@ -76,6 +76,7 @@
 * [Shell脚本的执行过程、执行方式详解](https://blog.51cto.com/14157628/2432456)
 * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 * [COMMAND LINE POWER USER](https://commandlinepoweruser.com/)
+* [Shell重定向 ＆>file、2>&1、1>&2 、/dev/null的区别](https://blog.csdn.net/u011630575/article/details/52151995)
 ## Linux
 * [Linux权限详解（chmod、600、644、666、700、711、755、777、4755、6755、7755）](https://blog.csdn.net/u013197629/article/details/73608613)
 * [nohup和&后台运行，进程查看及终止](https://www.cnblogs.com/baby123/p/6477429.html)
