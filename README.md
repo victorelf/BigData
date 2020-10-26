@@ -77,6 +77,8 @@
 * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 * [COMMAND LINE POWER USER](https://commandlinepoweruser.com/)
 * [Linux Shell 1>/dev/null 2>&1 含义](https://blog.csdn.net/ithomer/article/details/9288353)
+* [What does >& mean?](https://stackoverflow.com/questions/11255447/what-does-mean)
+* [What is &>> in a shell script](https://unix.stackexchange.com/questions/170572/what-is-in-a-shell-script)
 ## Linux
 * [Linux权限详解（chmod、600、644、666、700、711、755、777、4755、6755、7755）](https://blog.csdn.net/u013197629/article/details/73608613)
 * [nohup和&后台运行，进程查看及终止](https://www.cnblogs.com/baby123/p/6477429.html)
