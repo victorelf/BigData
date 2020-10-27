@@ -83,6 +83,7 @@
 * [nohup和&后台运行，进程查看及终止](https://www.cnblogs.com/baby123/p/6477429.html)
 * [linux shell 字符串操作详解 （长度，读取，替换，截取，连接，对比，删除，位置 ）](https://www.cnblogs.com/gaochsh/p/6901809.html)
 * [linux中shell变量$#,$@,$0,$1,$2的含义解释](https://www.cnblogs.com/fhefh/archive/2011/04/15/2017613.html)
+* [shell 学习的 wiki](https://wiki.jikexueyuan.com/project/shell-learning/shell-learning-second-day.html)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
