@@ -85,6 +85,7 @@
 * [linux中shell变量$#,$@,$0,$1,$2的含义解释](https://www.cnblogs.com/fhefh/archive/2011/04/15/2017613.html)
 * [shell 学习的 wiki](https://wiki.jikexueyuan.com/project/shell-learning/shell-learning-second-day.html)
 * [关于source /etc/profile命令](https://blog.csdn.net/anhuidelinger/article/details/8742907)
+* [Shell文件权限和脚本执行](https://www.cnblogs.com/chinas/p/5557727.html)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
