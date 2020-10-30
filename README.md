@@ -111,6 +111,8 @@
 ## Druid
 * [druid上传数据index文件配置](https://www.jianshu.com/p/35561ece0fdb)
 * [尝试理解日期时间字符串中的“ PT1H”](https://www.thinbug.com/q/56096937)
+## 计算机基础
+* [【秒懂】byte的取值范围为什么是-128~127？](https://www.jianshu.com/p/47761557bab0)
 ## 其他
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
