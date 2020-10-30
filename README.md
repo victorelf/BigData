@@ -86,6 +86,7 @@
 * [shell 学习的 wiki](https://wiki.jikexueyuan.com/project/shell-learning/shell-learning-second-day.html)
 * [关于source /etc/profile命令](https://blog.csdn.net/anhuidelinger/article/details/8742907)
 * [Shell文件权限和脚本执行](https://www.cnblogs.com/chinas/p/5557727.html)
+* [linux里source、sh、bash、./有什么区别](https://www.cnblogs.com/pcat/p/5467188.html)
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
