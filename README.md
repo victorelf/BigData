@@ -11,6 +11,7 @@
 * [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
 * [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
 * [轻松看懂Java字节码](https://juejin.im/post/6844903588716609543)
+* [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
