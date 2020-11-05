@@ -2,7 +2,6 @@
 ## Java
 * [Mac OS配置JDK环境（详细）](https://blog.csdn.net/qq_41855420/article/details/103448248)
 * [Java性能分析神器-JProfiler详解（一）](https://blog.csdn.net/u013613428/article/details/53926825)
-* [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
@@ -12,6 +11,9 @@
 * [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
 * [轻松看懂Java字节码](https://juejin.im/post/6844903588716609543)
 * [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
+### 排错纠错
+* [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
+* [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
