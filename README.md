@@ -97,7 +97,6 @@
 * [vim 光标快速移动技巧总结](https://blog.csdn.net/llzhang_fly/article/details/80474966)
 ## Flink
 * [Flink 如何使用 ProcessFunction](https://toutiao.io/posts/33a9kw/preview)
-* [使用Flink低级处理函数ProcessFunction](https://zhuanlan.zhihu.com/p/130708277)
 * [Flink学习笔记：Operators之Process Function](https://www.cnblogs.com/dajiangtai/p/10683729.html)
 * [Flink算子使用方法及实例演示：keyBy、reduce和aggregations](https://juejin.im/post/6844904029873504270)
 * [Flink状态管理详解：Keyed State和Operator List State深度解析](https://juejin.im/post/6844904053512601607)
