@@ -15,6 +15,7 @@
 * [String.getBytes()和Bytes.toBytes(字符串数据)之间的区别](https://cloud.tencent.com/developer/ask/68532)
 * [Java 基础——构造器和方法的区别](https://blog.csdn.net/zqixiao_09/article/details/50550035)
 * [static 关键字有什么作用](https://zhuanlan.zhihu.com/p/73704288)
+* [声明类型和实际类型，以及多态](https://blog.51cto.com/cnn237111/606545)
 ### 排错纠错
 * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
 * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
