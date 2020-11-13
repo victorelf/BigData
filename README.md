@@ -133,3 +133,4 @@
 * [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
 * [iOS获取设备唯一标识的各种方法？IDFA、IDFV、UDID,UUID分别是什么含义？](https://blog.csdn.net/u013705509/article/details/51576724)
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
+* [运行 “git clone git@remote.git” 时如何提供用户名和密码？](https://routinepanic.com/questions/how-do-i-provide-a-username-and-password-when-running-git-clone-gitremote-git)
