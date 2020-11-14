@@ -1,6 +1,7 @@
 # 数据研发
 ## Java
 * [Mac OS配置JDK环境（详细）](https://blog.csdn.net/qq_41855420/article/details/103448248)
+* [javac不是内部或外部命令，也不是可运行的程序 或批处理文件的细节问题(window10)](https://blog.csdn.net/qq_40670946/article/details/90200364)
 * [Java性能分析神器-JProfiler详解（一）](https://blog.csdn.net/u013613428/article/details/53926825)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
