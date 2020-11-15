@@ -2,6 +2,7 @@
 ## Java
 * [Mac OS配置JDK环境（详细）](https://blog.csdn.net/qq_41855420/article/details/103448248)
 * [javac不是内部或外部命令，也不是可运行的程序 或批处理文件的细节问题(window10)](https://blog.csdn.net/qq_40670946/article/details/90200364)
+* [为什么安装jdk后，根目录有jdk和jre两个文件夹。但是jdk下还有个jre？为什么会安装两个jre？](https://www.cnblogs.com/byx1024/p/12345126.html)
 * [Java性能分析神器-JProfiler详解（一）](https://blog.csdn.net/u013613428/article/details/53926825)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
@@ -69,9 +70,14 @@
 * [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
 * [收集了这么多实用技巧，帮助你的 iterm2 成为最帅的那个！](https://blog.csdn.net/javageektech/article/details/103966594)
 * [iterm2保存ssh连接信息](https://www.dyxmq.cn/other/save-ssh-profile-in-iterm2.html)
+## PowerShell
+* [在 PowerShell 和 Windows Terminal 中配置 Powerline](https://www.bilibili.com/read/cv6158824/)
 ## IDEA
 * [IntelliJ IDEA  Mac 版本的快捷键](https://www.cnblogs.com/name-lizonglin/p/13298209.html)
+* [使用IntelliJ IDEA 配置JDK（入门）](https://blog.csdn.net/nobb111/article/details/77116259)
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
+* [在IDEA中配置及使用Maven的全过程](https://zhuanlan.zhihu.com/p/122429605#:~:text=%E7%82%B9%E5%87%BBIDEA%E5%B7%A6%E4%B8%8A%E8%A7%92%E7%9A%84%20File%20-%3E%20Other%20Settings%20-%3E%20Settings,for%20New%20Projects%20-%3E%E5%9C%A8%20Build%20Tools%20%E4%B8%AD%E6%89%BE%E5%88%B0Maven%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95%E3%80%81%E8%AE%BE%E7%BD%AE%E3%80%81%E4%BB%93%E5%BA%93%E7%9A%84%E6%89%80%E5%9C%A8%E4%BD%8D%E7%BD%AE.)
+* [MAVEN简介之——settings.xml](https://yq.aliyun.com/articles/625836)
 ## Linux、shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
