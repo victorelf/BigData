@@ -71,7 +71,9 @@
 * [收集了这么多实用技巧，帮助你的 iterm2 成为最帅的那个！](https://blog.csdn.net/javageektech/article/details/103966594)
 * [iterm2保存ssh连接信息](https://www.dyxmq.cn/other/save-ssh-profile-in-iterm2.html)
 ## PowerShell
-* [在 PowerShell 和 Windows Terminal 中配置 Powerline](https://www.bilibili.com/read/cv6158824/)
+* [1、在 PowerShell 和 Windows Terminal 中配置 Powerline](https://www.bilibili.com/read/cv6158824/)
+* [2、Cascadia Mono PL等字体的安装方法说明](https://51.ruyo.net/15844.html)
+* [给 PowerShell 带来 zsh 的体验(含自动补全设置、记忆历史命令等)](https://zhuanlan.zhihu.com/p/137251716)
 ## IDEA
 * [IntelliJ IDEA  Mac 版本的快捷键](https://www.cnblogs.com/name-lizonglin/p/13298209.html)
 * [使用IntelliJ IDEA 配置JDK（入门）](https://blog.csdn.net/nobb111/article/details/77116259)
