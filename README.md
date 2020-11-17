@@ -20,6 +20,7 @@
 * [声明类型和实际类型，以及多态](https://blog.51cto.com/cnn237111/606545)
 * [理解静态绑定与动态绑定](https://juejin.im/post/6844903953931436040)
 * [jvm之方法内联优化](https://zhuanlan.zhihu.com/p/55630861)
+* [Java this关键字](https://www.w3cschool.cn/java/java-this.html)
 ### 排错纠错
 * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
 * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
