@@ -24,6 +24,7 @@
 * [getClass()和instanceof以及类的equals方法](https://www.cnblogs.com/Joey777210/p/11770454.html)
 * [Java高级系列——散列与散列码](https://blog.csdn.net/zyhlwzy/article/details/79816195)
 * [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
+* [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 ### 排错纠错
 * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
 * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
