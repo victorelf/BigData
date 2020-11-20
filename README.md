@@ -44,12 +44,13 @@
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
-* [SparkSession](https://www.jianshu.com/p/4705988b0c84)
 * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
 * [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
+* [SparkSession](https://www.jianshu.com/p/4705988b0c84)
+* [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 * [SQL教程](https://www.yiibai.com/sql/sql-syntax.html)
