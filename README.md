@@ -86,6 +86,7 @@
 * [PowerShell: 如何解决File **.ps1 cannot be loaded because the execution of scripts is disabled on this system. Please see "get- help about_sig" for more de](https://www.cnblogs.com/findcaiyzh/archive/2012/09/21/2696282.html)
 * [Powershell使用SSH](https://www.cnblogs.com/hengwei/p/7866657.html)
 * [Windows PowerShell基本语法及常用命令](https://blog.csdn.net/mr_pang/article/details/50571866)
+* [Windows Powershell的Linux“ Top”命令？](https://qastack.cn/superuser/176624/linux-top-command-for-windows-powershell)
 ## IDEA
 * [IntelliJ IDEA  Mac 版本的快捷键](https://www.cnblogs.com/name-lizonglin/p/13298209.html)
 * [IntelliJ IDEA好看的主题设置（支持自定义)](https://www.cnblogs.com/asio/p/12582311.html)
