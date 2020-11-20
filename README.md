@@ -78,7 +78,7 @@
 * [iterm2保存ssh连接信息](https://www.dyxmq.cn/other/save-ssh-profile-in-iterm2.html)
 ## PowerShell
 * [1、在 PowerShell 和 Windows Terminal 中配置 Powerline](https://www.bilibili.com/read/cv6158824/)
-* [2、Cascadia Mono PL等字体的安装方法说明](https://51.ruyo.net/15844.html)
+> 附：1中涉及到的字体安装[Cascadia Mono PL等字体的安装方法说明](https://51.ruyo.net/15844.html)
 * [给 PowerShell 带来 zsh 的体验(含自动补全设置、记忆历史命令等)](https://zhuanlan.zhihu.com/p/137251716)
 * [Windows10使用PowerShell远程连接Linux服务器](https://blog.csdn.net/xzpq07/article/details/103523501)
 * [PowerShell: 如何解决File **.ps1 cannot be loaded because the execution of scripts is disabled on this system. Please see "get- help about_sig" for more de](https://www.cnblogs.com/findcaiyzh/archive/2012/09/21/2696282.html)
