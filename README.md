@@ -1,5 +1,5 @@
 # 数据研发
-[TOP]
+[TOC]
 ## Java
 * [Mac OS配置JDK环境（详细）](https://blog.csdn.net/qq_41855420/article/details/103448248)
 * [javac不是内部或外部命令，也不是可运行的程序 或批处理文件的细节问题(window10)](https://blog.csdn.net/qq_40670946/article/details/90200364)
