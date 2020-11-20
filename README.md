@@ -143,13 +143,15 @@
 * [尝试理解日期时间字符串中的“ PT1H”](https://www.thinbug.com/q/56096937)
 ## 计算机基础
 * [【秒懂】byte的取值范围为什么是-128~127？](https://www.jianshu.com/p/47761557bab0)
-## 其他
+* [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
+## 大数据基础常识类知识
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
+* [数据分析必须想清楚的两个概念：指标和维度](https://zhuanlan.zhihu.com/p/57518679)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
 * [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
-* [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
 * [iOS获取设备唯一标识的各种方法？IDFA、IDFV、UDID,UUID分别是什么含义？](https://blog.csdn.net/u013705509/article/details/51576724)
+## 其他
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
 * [运行 “git clone git@remote.git” 时如何提供用户名和密码？](https://routinepanic.com/questions/how-do-i-provide-a-username-and-password-when-running-git-clone-gitremote-git)
