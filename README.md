@@ -26,10 +26,11 @@
 * [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 * [这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析](https://blog.csdn.net/qq_44543508/article/details/102983363)
-    > #### 排错纠错
-    > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
-    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
-    > * [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
+---
+   > #### Java运行错误及其解决
+   > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
+   > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
+   > * [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
