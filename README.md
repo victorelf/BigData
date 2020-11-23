@@ -29,6 +29,7 @@
 ### 排错纠错
 * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
 * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
+* [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
