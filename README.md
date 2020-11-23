@@ -9,9 +9,9 @@
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
 * Calendar类:
-    - [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
-    - [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
-    - [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
+   > - [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
+   > - [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
+   > - [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
 * [轻松看懂Java字节码](https://juejin.im/post/6844903588716609543)
 * [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
 * [String.getBytes()和Bytes.toBytes(字符串数据)之间的区别](https://cloud.tencent.com/developer/ask/68532)
@@ -26,7 +26,7 @@
 * [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 * [这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析](https://blog.csdn.net/qq_44543508/article/details/102983363)
-#### Java运行错误及其解决
+* Java运行错误及其解决:
    > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
    > * [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
