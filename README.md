@@ -26,7 +26,7 @@
 * [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 * [这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析](https://blog.csdn.net/qq_44543508/article/details/102983363)
----
+&nbsp; 
    > #### Java运行错误及其解决
    > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
@@ -46,6 +46,7 @@
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
 * [Scala中的Map使用例子](https://blog.csdn.net/u010454030/article/details/53899587)
 * [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
+---
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
@@ -56,6 +57,7 @@
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
 * [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
+---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 * [SQL教程](https://www.yiibai.com/sql/sql-syntax.html)
@@ -67,6 +69,7 @@
 * [关于Left join，你可能不知道这些......](https://zhuanlan.zhihu.com/p/85856388)
 * [SELECT中常用的子查询操作](https://www.cnblogs.com/geaozhang/p/6756825.html)
 * [mysql 时间戳格式化函数from_unixtime使用说明](https://blog.csdn.net/fdipzone/article/details/51018930)
+---
 ## Mac、iTerm
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
@@ -82,6 +85,7 @@
 * [How to Stop SSH Session From Getting Timed Out](https://www.thegeekdiary.com/how-to-stop-ssh-session-from-getting-timed-out/)
 * [收集了这么多实用技巧，帮助你的 iterm2 成为最帅的那个！](https://blog.csdn.net/javageektech/article/details/103966594)
 * [iterm2保存ssh连接信息](https://www.dyxmq.cn/other/save-ssh-profile-in-iterm2.html)
+---
 ## PowerShell
 * [1、在 PowerShell 和 Windows Terminal 中配置 Powerline](https://www.bilibili.com/read/cv6158824/)
   > 附：1中涉及到的[Cascadia Mono PL等字体的安装方法说明](https://51.ruyo.net/15844.html)
@@ -91,6 +95,7 @@
 * [Powershell使用SSH](https://www.cnblogs.com/hengwei/p/7866657.html)
 * [Windows PowerShell基本语法及常用命令](https://blog.csdn.net/mr_pang/article/details/50571866)
 * [Windows Powershell的Linux“ Top”命令？](https://qastack.cn/superuser/176624/linux-top-command-for-windows-powershell)
+---
 ## IDEA
 * [IntelliJ IDEA  Mac 版本的快捷键](https://www.cnblogs.com/name-lizonglin/p/13298209.html)
 * [IntelliJ IDEA好看的主题设置（支持自定义)](https://www.cnblogs.com/asio/p/12582311.html)
@@ -98,6 +103,7 @@
 * [IntelliJ IDEA 常用设置](https://www.cnblogs.com/wangmingshun/p/6427088.html)
 * [在IDEA中配置及使用Maven的全过程](https://zhuanlan.zhihu.com/p/122429605#:~:text=%E7%82%B9%E5%87%BBIDEA%E5%B7%A6%E4%B8%8A%E8%A7%92%E7%9A%84%20File%20-%3E%20Other%20Settings%20-%3E%20Settings,for%20New%20Projects%20-%3E%E5%9C%A8%20Build%20Tools%20%E4%B8%AD%E6%89%BE%E5%88%B0Maven%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95%E3%80%81%E8%AE%BE%E7%BD%AE%E3%80%81%E4%BB%93%E5%BA%93%E7%9A%84%E6%89%80%E5%9C%A8%E4%BD%8D%E7%BD%AE.)
 * [MAVEN简介之——settings.xml](https://yq.aliyun.com/articles/625836)
+---
 ## Linux、shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
@@ -125,16 +131,19 @@
 * [关于source /etc/profile命令](https://blog.csdn.net/anhuidelinger/article/details/8742907)
 * [Shell文件权限和脚本执行](https://www.cnblogs.com/chinas/p/5557727.html)
 * [linux里source、sh、bash、./有什么区别](https://www.cnblogs.com/pcat/p/5467188.html)
+---
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
 * [在vim中快速复制粘贴多行](https://www.cnblogs.com/MMLoveMeMM/articles/3707287.html)
 * [vim 光标快速移动技巧总结](https://blog.csdn.net/llzhang_fly/article/details/80474966)
+---
 ## Flink
 * [Flink 如何使用 ProcessFunction](https://toutiao.io/posts/33a9kw/preview)
 * [Flink学习笔记：Operators之Process Function](https://www.cnblogs.com/dajiangtai/p/10683729.html)
 * [Flink算子使用方法及实例演示：keyBy、reduce和aggregations](https://juejin.im/post/6844904029873504270)
 * [Flink状态管理详解：Keyed State和Operator List State深度解析](https://juejin.im/post/6844904053512601607)
 * [Flink算子使用方法及实例演示：map、filter和flatMap](https://cloud.tencent.com/developer/article/1559993)
+---
 ## Hbase、Hive、HDFS
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
 * [HBase 深入浅出](https://developer.ibm.com/zh/technologies/analytics/articles/ba-cn-bigdata-hbase/)
@@ -146,12 +155,15 @@
 * [FileSystem.get从缓存cache中获得连接导致的问题](https://my.oschina.net/cjun/blog/669087)
 * [HDFS 命令大全](https://www.cnblogs.com/reycg-blog/p/10087021.html)
 * [Hadoop----hdfs dfs常用命令的使用](https://www.cnblogs.com/zyanrong/p/11774997.html)
+---
 ## Druid
 * [druid上传数据index文件配置](https://www.jianshu.com/p/35561ece0fdb)
 * [尝试理解日期时间字符串中的“ PT1H”](https://www.thinbug.com/q/56096937)
+---
 ## 计算机基础
 * [【秒懂】byte的取值范围为什么是-128~127？](https://www.jianshu.com/p/47761557bab0)
 * [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
+---
 ## 大数据基础常识类知识
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
 * [数据分析必须想清楚的两个概念：指标和维度](https://zhuanlan.zhihu.com/p/57518679)
@@ -160,6 +172,7 @@
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
 * [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
 * [iOS获取设备唯一标识的各种方法？IDFA、IDFV、UDID,UUID分别是什么含义？](https://blog.csdn.net/u013705509/article/details/51576724)
+---
 ## 其他
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
 * [运行 “git clone git@remote.git” 时如何提供用户名和密码？](https://routinepanic.com/questions/how-do-i-provide-a-username-and-password-when-running-git-clone-gitremote-git)
