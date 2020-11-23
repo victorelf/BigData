@@ -8,7 +8,7 @@
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
-* <font color=Blue>Calendar类:</font>
+* <font color="#000066">Calendar类:</font><br /> 
     - [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
     - [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
     - [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
