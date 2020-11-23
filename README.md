@@ -8,7 +8,7 @@
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
-* <font color="#000066">Calendar类:</font><br /> 
+* Calendar类:
     - [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
     - [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
     - [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
@@ -26,10 +26,10 @@
 * [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 * [这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析](https://blog.csdn.net/qq_44543508/article/details/102983363)
-### 排错纠错
-* [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
-* [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
-* [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
+    > #### 排错纠错
+    > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
+    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
+    > * [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
@@ -44,6 +44,7 @@
 * [Scala中的mkString](https://blog.csdn.net/liu16659/article/details/80427381)
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
 * [Scala中的Map使用例子](https://blog.csdn.net/u010454030/article/details/53899587)
+* [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
