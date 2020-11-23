@@ -43,6 +43,7 @@
 * [What are all the uses of an underscore in Scala?](https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala)
 * [Scala中的mkString](https://blog.csdn.net/liu16659/article/details/80427381)
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
+* [Scala中的Map使用例子](https://blog.csdn.net/u010454030/article/details/53899587)
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
