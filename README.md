@@ -48,7 +48,7 @@
 * [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
 * [What is ← in Scala?](https://stackoverflow.com/questions/31799536/what-is-%E2%86%90-in-scala)
 * [HOW DO I FIND WHAT SOME SYMBOL MEANS OR DOES?](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
-* [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
+
 ---
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
@@ -60,6 +60,8 @@
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
 * [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
+* [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
+  > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
