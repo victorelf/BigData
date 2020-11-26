@@ -63,6 +63,7 @@
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
 * [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
   > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
+* [Spark学习之路 （三）Spark之RDD](https://www.cnblogs.com/qingyunzong/p/8899715.html)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
