@@ -48,6 +48,7 @@
 * [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
 * [What is ← in Scala?](https://stackoverflow.com/questions/31799536/what-is-%E2%86%90-in-scala)
 * [HOW DO I FIND WHAT SOME SYMBOL MEANS OR DOES?](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
+* [How to use a Range in Scala (Range class examples)](https://alvinalexander.com/scala/how-to-use-range-class-in-scala-cookbook/)
 
 ---
 ## Spark
