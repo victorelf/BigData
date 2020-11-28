@@ -40,7 +40,6 @@
 * [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
 * [scala在IDEA中图标的解释](https://www.jianshu.com/p/8887b685c8b9)
 * [Scala模式匹配_match](https://www.lagou.com/lgeduarticle/38336.html)
-* [Spark SQL 数据统计 Scala 开发小结](https://cloud.tencent.com/developer/article/1005690)
 * [What are all the uses of an underscore in Scala?](https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala)
 * [Scala中的mkString](https://blog.csdn.net/liu16659/article/details/80427381)
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
@@ -63,6 +62,7 @@
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
 * [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
   > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
+* [Spark SQL 开发小结](https://cloud.tencent.com/developer/article/1005690)
 * **RDD：**
   > * [Spark学习之路 （三）Spark之RDD](https://www.cnblogs.com/qingyunzong/p/8899715.html)
   > * [Spark RDD（Resilient Distributed Datasets）](https://spark.apachecn.org/#/docs/paper)
