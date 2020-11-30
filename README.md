@@ -67,6 +67,7 @@
   > * [Spark学习之路 （三）Spark之RDD](https://www.cnblogs.com/qingyunzong/p/8899715.html)
   > * [Spark RDD（Resilient Distributed Datasets）](https://spark.apachecn.org/#/docs/paper)
   > * [RDD 编程指南](https://spark-reference-doc-cn.readthedocs.io/zh_CN/latest/programming-guide/rdd-guide.html)
+  > * [Spark RDD--数据类型转换](https://blog.csdn.net/qq_36235275/article/details/82502352)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
