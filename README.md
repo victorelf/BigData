@@ -144,6 +144,7 @@
 * [关于source /etc/profile命令](https://blog.csdn.net/anhuidelinger/article/details/8742907)
 * [Shell文件权限和脚本执行](https://www.cnblogs.com/chinas/p/5557727.html)
 * [linux里source、sh、bash、./有什么区别](https://www.cnblogs.com/pcat/p/5467188.html)
+* [linux在shell中获取时间 date巧用](https://blog.csdn.net/classhao1/article/details/8182733)
 * **排错纠错：**
   > * [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
   > * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
