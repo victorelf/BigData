@@ -121,7 +121,6 @@
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
 * [shell脚本实战（第2版）](https://www.ituring.com.cn/book/tupubarticle/25579)
-* [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
 * [shell脚本中一些特殊符号](https://www.cnblogs.com/xuxm2007/archive/2011/10/20/2218846.html)
 * [从kinit到kerberos安全机制](https://www.jianshu.com/p/2039fe8c62a1)
 * [Shell 脚本中 '$' 符号的多种用法](https://blog.csdn.net/jake_tian/article/details/97274630)
@@ -131,7 +130,6 @@
 * [Shell中的IFS解惑](https://blog.csdn.net/whuslei/article/details/7187639)
 * [详细解析Shell中的IFS变量](https://zhuanlan.zhihu.com/p/36513249)
 * [Shell脚本的执行过程、执行方式详解](https://blog.51cto.com/14157628/2432456)
-* [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 * [COMMAND LINE POWER USER](https://commandlinepoweruser.com/)
 * [Linux Shell 1>/dev/null 2>&1 含义](https://blog.csdn.net/ithomer/article/details/9288353)
 * [What does >& mean?](https://stackoverflow.com/questions/11255447/what-does-mean)
@@ -144,6 +142,9 @@
 * [关于source /etc/profile命令](https://blog.csdn.net/anhuidelinger/article/details/8742907)
 * [Shell文件权限和脚本执行](https://www.cnblogs.com/chinas/p/5557727.html)
 * [linux里source、sh、bash、./有什么区别](https://www.cnblogs.com/pcat/p/5467188.html)
+* **排错纠错：**
+  > * [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
+  > * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
 ---
 ## Vim
 * [VIM命令模式与输入模式切换](https://blog.csdn.net/hachirou/article/details/7761625)
