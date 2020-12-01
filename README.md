@@ -37,17 +37,19 @@
 * [Scala之Object](https://www.cnblogs.com/leesf456/p/6492626.html)
 * [scala 中的val 、 var 、def](https://blog.csdn.net/lisulong1/article/details/78783450)
 * [What does a lazy val do?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
-* [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
 * [scala在IDEA中图标的解释](https://www.jianshu.com/p/8887b685c8b9)
 * [Scala模式匹配_match](https://www.lagou.com/lgeduarticle/38336.html)
 * [What are all the uses of an underscore in Scala?](https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala)
 * [Scala中的mkString](https://blog.csdn.net/liu16659/article/details/80427381)
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
 * [Scala中的Map使用例子](https://blog.csdn.net/u010454030/article/details/53899587)
-* [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
-* [What is ← in Scala?](https://stackoverflow.com/questions/31799536/what-is-%E2%86%90-in-scala)
-* [HOW DO I FIND WHAT SOME SYMBOL MEANS OR DOES?](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
 * [How to use a Range in Scala (Range class examples)](https://alvinalexander.com/scala/how-to-use-range-class-in-scala-cookbook/)
+* **符号相关:**
+  > * [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
+  > * [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
+  > * [What is ← in Scala?](https://stackoverflow.com/questions/31799536/what-is-%E2%86%90-in-scala)
+  > * [HOW DO I FIND WHAT SOME SYMBOL MEANS OR DOES?](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
+  > * [What does => and () => mean in Scala](https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala)
 
 ---
 ## Spark
