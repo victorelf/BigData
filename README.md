@@ -122,6 +122,7 @@
 ---
 ## Linux、shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
+* [linux查看文件前几行和后几行的命令](https://blog.csdn.net/zmx19951103/article/details/78575265)
 * [Shell速成手册-超级总结篇](https://cloud.tencent.com/developer/news/317925)
 * [shell脚本实战（第2版）](https://www.ituring.com.cn/book/tupubarticle/25579)
 * [shell脚本中一些特殊符号](https://www.cnblogs.com/xuxm2007/archive/2011/10/20/2218846.html)
