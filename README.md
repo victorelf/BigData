@@ -195,3 +195,4 @@
 ## 其他
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
 * [运行 “git clone git@remote.git” 时如何提供用户名和密码？](https://routinepanic.com/questions/how-do-i-provide-a-username-and-password-when-running-git-clone-gitremote-git)
+* [命令行界面 (CLI)、终端 (Terminal)、Shell、TTY，傻傻分不清楚？](https://segmentfault.com/a/1190000016129862)
