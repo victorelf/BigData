@@ -72,6 +72,7 @@
   > * [Spark RDD--数据类型转换](https://blog.csdn.net/qq_36235275/article/details/82502352)
   > * [RDDs vs DataFrames and Datasets When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
  * [spark源码阅读笔记Dataset（三）structField、structType、schame](https://blog.csdn.net/legotime/article/details/52643243)
+ * [am-memory，driver-memory，executor-memory](https://blog.csdn.net/woloqun/article/details/102601953)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
