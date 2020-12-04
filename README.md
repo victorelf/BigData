@@ -180,6 +180,11 @@
 * [druid上传数据index文件配置](https://www.jianshu.com/p/35561ece0fdb)
 * [尝试理解日期时间字符串中的“ PT1H”](https://www.thinbug.com/q/56096937)
 ---
+## Doris
+* [Doris简史-为分析而生](https://zhuanlan.zhihu.com/p/66637804)
+* [Apache Doris (Incubating) 原理与实践](https://www.infoq.cn/article/vxup94ub59ya*k0tnefe)
+* [MPP(大规模并行处理)简介](https://blog.csdn.net/qq_42189083/article/details/80610092)
+---
 ## 计算机基础
 * [【秒懂】byte的取值范围为什么是-128~127？](https://www.jianshu.com/p/47761557bab0)
 * [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
