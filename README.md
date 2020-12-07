@@ -50,7 +50,6 @@
   > * [What is ← in Scala?](https://stackoverflow.com/questions/31799536/what-is-%E2%86%90-in-scala)
   > * [HOW DO I FIND WHAT SOME SYMBOL MEANS OR DOES?](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
   > * [What does => and () => mean in Scala](https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala)
-
 ---
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
@@ -85,6 +84,7 @@
 * [关于Left join，你可能不知道这些......](https://zhuanlan.zhihu.com/p/85856388)
 * [SELECT中常用的子查询操作](https://www.cnblogs.com/geaozhang/p/6756825.html)
 * [mysql 时间戳格式化函数from_unixtime使用说明](https://blog.csdn.net/fdipzone/article/details/51018930)
+* [MySQL Binlog 介绍](https://laijianfeng.org/2019/03/MySQL-Binlog-%E4%BB%8B%E7%BB%8D/)
 ---
 ## Mac、iTerm
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
