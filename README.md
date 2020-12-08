@@ -64,6 +64,7 @@
 * [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
   > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
 * [Spark SQL 开发小结](https://cloud.tencent.com/developer/article/1005690)
+* [【Spark】遍历DataFrame中的每一行数据](https://blog.csdn.net/m0_37773338/article/details/104098441)
 * **RDD：**
   > * [Spark学习之路 （三）Spark之RDD](https://www.cnblogs.com/qingyunzong/p/8899715.html)
   > * [Spark RDD（Resilient Distributed Datasets）](https://spark.apachecn.org/#/docs/paper)
