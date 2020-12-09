@@ -72,6 +72,7 @@
   > * [RDD 编程指南](https://spark-reference-doc-cn.readthedocs.io/zh_CN/latest/programming-guide/rdd-guide.html)
   > * [Spark RDD--数据类型转换](https://blog.csdn.net/qq_36235275/article/details/82502352)
   > * [RDDs vs DataFrames and Datasets When to use them and why](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
+  > * [Spark RDD概念学习系列之RDD的5大特点（五）](https://developer.aliyun.com/article/371285)
  * [spark源码阅读笔记Dataset（三）structField、structType、schame](https://blog.csdn.net/legotime/article/details/52643243)
  * [am-memory，driver-memory，executor-memory](https://blog.csdn.net/woloqun/article/details/102601953)
 ---
