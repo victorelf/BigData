@@ -50,6 +50,7 @@
   > * [What is ← in Scala?](https://stackoverflow.com/questions/31799536/what-is-%E2%86%90-in-scala)
   > * [HOW DO I FIND WHAT SOME SYMBOL MEANS OR DOES?](https://docs.scala-lang.org/tutorials/FAQ/finding-symbols.html)
   > * [What does => and () => mean in Scala](https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala)
+* [scala中map和foreach的区别](https://blog.csdn.net/qq_26398033/article/details/52472476)
 ---
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
