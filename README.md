@@ -77,6 +77,7 @@
  * [spark源码阅读笔记Dataset（三）structField、structType、schame](https://blog.csdn.net/legotime/article/details/52643243)
  * [am-memory，driver-memory，executor-memory](https://blog.csdn.net/woloqun/article/details/102601953)
  * [spark出现task不能序列化错误的解决方法 org.apache.spark.SparkException: Task not serializable](https://www.cnblogs.com/zwchan/p/4305156.html)
+ * [Spark面试题(一)](https://zhuanlan.zhihu.com/p/49169166)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
