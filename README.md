@@ -60,7 +60,7 @@
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
 * [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
-* [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
+- [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
 * [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
   > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
@@ -80,6 +80,7 @@
  * [spark出现task不能序列化错误的解决方法 org.apache.spark.SparkException: Task not serializable](https://www.cnblogs.com/zwchan/p/4305156.html)
  * [Spark面试题(一)](https://zhuanlan.zhihu.com/p/49169166)
  * [spark 学习整理](https://www.jianshu.com/p/c364a32d4493)
+ * [解惑| spark实现业务前一定要掌握的点 driver & executor](https://zhuanlan.zhihu.com/p/94346878)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
