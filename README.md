@@ -202,7 +202,9 @@
 ---
 ## 大数据基础常识类知识
 * [数据库与数据仓库的区别与联系](https://blog.csdn.net/wenjie847/article/details/5934267)
+* [数据库 与 数据仓库的本质区别是什么？](https://www.zhihu.com/question/20623931)
 * [数据分析必须想清楚的两个概念：指标和维度](https://zhuanlan.zhihu.com/p/57518679)
+* [主流开源OLAP引擎：Hive、Sparksql、Presto、Kylin、Impala、Druid等的介绍](https://my.oschina.net/dataclub/blog/4346551)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
@@ -215,4 +217,4 @@
 * [命令行界面 (CLI)、终端 (Terminal)、Shell、TTY，傻傻分不清楚？](https://segmentfault.com/a/1190000016129862)
 * [OneNote 代码高亮方法总结](https://go2think.com/onenote-code-highlight/)
 * [log4j的8个日志级别（OFF、FATAL、ERROR、WARN、INFO、DEBUG、TRACE、 ALL）](https://blog.csdn.net/shiyong1949/article/details/52643711)
-* [主流开源OLAP引擎：Hive、Sparksql、Presto、Kylin、Impala、Druid等的介绍]（https://my.oschina.net/dataclub/blog/4346551）
+
