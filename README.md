@@ -88,6 +88,7 @@
 * [主键(primary key)和唯一键(unique) 知识点总结](https://www.jianshu.com/p/b09dfc85c235)
 * [sql语句中as的用法和作用](https://www.cnblogs.com/zhaotiancheng/p/6692553.html)
 * [数据库中Schema（模式）概念的理解](https://www.cnblogs.com/csniper/p/5509620.html)
+* [SQL的SUBSTR()函数](https://blog.csdn.net/howlaa/article/details/16825761)
 * [更新表数据（INSERT OVERWRITE and INSERT INTO）](https://help.aliyun.com/document_detail/73775.html)
 * [JOIN关联表中ON,WHERE后面跟条件的区别](https://www.cnblogs.com/zhoug2020/p/4913302.html)
 * [关于Left join，你可能不知道这些......](https://zhuanlan.zhihu.com/p/85856388)
