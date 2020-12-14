@@ -60,11 +60,11 @@
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
 * [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
-- [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
+* [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
 * [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
   > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
-- [Spark SQL 开发小结](https://cloud.tencent.com/developer/article/1005690)
+* [Spark SQL 开发小结](https://cloud.tencent.com/developer/article/1005690)
 * [【Spark】遍历DataFrame中的每一行数据](https://blog.csdn.net/m0_37773338/article/details/104098441)
 * **RDD：**
   > * [Spark学习之路 （三）Spark之RDD](https://www.cnblogs.com/qingyunzong/p/8899715.html)
