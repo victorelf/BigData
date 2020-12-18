@@ -211,6 +211,7 @@
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
 * [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
 * [iOS获取设备唯一标识的各种方法？IDFA、IDFV、UDID,UUID分别是什么含义？](https://blog.csdn.net/u013705509/article/details/51576724)
+* [Parquet文件结构笔记](https://www.cnblogs.com/panpanwelcome/p/10250172.html)
 ---
 ## 其他
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
