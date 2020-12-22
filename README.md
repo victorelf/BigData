@@ -94,6 +94,7 @@
 * [JOIN关联表中ON,WHERE后面跟条件的区别](https://www.cnblogs.com/zhoug2020/p/4913302.html)
 * [关于Left join，你可能不知道这些......](https://zhuanlan.zhihu.com/p/85856388)
 * [带Left Join的SQL语句的执行顺序](https://www.cnblogs.com/mcad/p/4207033.html)
+* [sql语句执行步骤详解](https://www.lagou.com/lgeduarticle/76920.html)
 * [SELECT中常用的子查询操作](https://www.cnblogs.com/geaozhang/p/6756825.html)
 * [mysql 时间戳格式化函数from_unixtime使用说明](https://blog.csdn.net/fdipzone/article/details/51018930)
 * [MySQL Binlog 介绍](https://laijianfeng.org/2019/03/MySQL-Binlog-%E4%BB%8B%E7%BB%8D/)
