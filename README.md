@@ -192,6 +192,7 @@
 * [HDFS 命令大全](https://www.cnblogs.com/reycg-blog/p/10087021.html)
 * [Hadoop----hdfs dfs常用命令的使用](https://www.cnblogs.com/zyanrong/p/11774997.html)
 * [Hadoop数据复制DistCp](https://blog.csdn.net/SunnyYoona/article/details/54668028)
+* [Hive与HBase的区别与联系](https://www.cnblogs.com/cainiao-chuanqi/p/12080396.html)
 ---
 ## Druid
 * [druid上传数据index文件配置](https://www.jianshu.com/p/35561ece0fdb)
