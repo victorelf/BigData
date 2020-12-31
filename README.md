@@ -82,6 +82,7 @@
  * [Spark面试题(一)](https://zhuanlan.zhihu.com/p/49169166)
  * [spark 学习整理](https://www.jianshu.com/p/c364a32d4493)
  * [解惑| spark实现业务前一定要掌握的点 driver & executor](https://zhuanlan.zhihu.com/p/94346878)
+ * [Spark UDF使用详解及代码示例](https://www.jianshu.com/p/bded081b5350)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
