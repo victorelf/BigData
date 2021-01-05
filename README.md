@@ -52,6 +52,7 @@
   > * [What does => and () => mean in Scala](https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala)
 * [scala中map和foreach的区别](https://blog.csdn.net/qq_26398033/article/details/52472476)
 * [“new” keyword in Scala](https://stackoverflow.com/questions/9727637/new-keyword-in-scala)
+* [Scala中的for/yield详解](https://blog.csdn.net/qq_36330643/article/details/76227051)
 ---
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
