@@ -222,11 +222,16 @@
 * [Parquet文件结构笔记](https://www.cnblogs.com/panpanwelcome/p/10250172.html)
 * [Spark Option: inferSchema vs header = true](https://stackoverflow.com/questions/56927329/spark-option-inferschema-vs-header-true/56933052)
 ---
+## 电商业务类
+* [订单全流程：从父订单到仓库出库单](http://www.woshipm.com/pd/2613252.html)
+* [电商后台产品设计：订单拆单](http://www.woshipm.com/pd/597257.html)
+* [浅谈移动端设备标识码：DeviceID、IMEI、IDFA、UDID和UUID](https://pmecho.com/2018/03/%E8%AE%BE%E5%A4%87%E6%A0%87%E8%AF%86%E7%A0%81/)
+---
 ## 其他
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
 * [运行 “git clone git@remote.git” 时如何提供用户名和密码？](https://routinepanic.com/questions/how-do-i-provide-a-username-and-password-when-running-git-clone-gitremote-git)
 * [命令行界面 (CLI)、终端 (Terminal)、Shell、TTY，傻傻分不清楚？](https://segmentfault.com/a/1190000016129862)
 * [OneNote 代码高亮方法总结](https://go2think.com/onenote-code-highlight/)
 * [log4j的8个日志级别（OFF、FATAL、ERROR、WARN、INFO、DEBUG、TRACE、 ALL）](https://blog.csdn.net/shiyong1949/article/details/52643711)
-* [订单全流程：从父订单到仓库出库单](http://www.woshipm.com/pd/2613252.html)
-* [电商后台产品设计：订单拆单](http://www.woshipm.com/pd/597257.html)
+
+
