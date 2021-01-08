@@ -225,7 +225,7 @@
 ## 电商业务类
 * [订单全流程：从父订单到仓库出库单](http://www.woshipm.com/pd/2613252.html)
 * [电商后台产品设计：订单拆单](http://www.woshipm.com/pd/597257.html)
-* [浅谈移动端设备标识码：DeviceID、IMEI、IDFA、UDID和UUID](https://pmecho.com/2018/03/%E8%AE%BE%E5%A4%87%E6%A0%87%E8%AF%86%E7%A0%81/)
+* [说说移动设备的各种标识码（DeviceID, IMEI, UUID, UDID, OAID, IDFA, GAID](https://blog.csdn.net/Elenal/article/details/107006429)
 ---
 ## 其他
 * [皮皮鲁的科技星球](https://lulaoshi.info/)
