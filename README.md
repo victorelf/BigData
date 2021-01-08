@@ -6,6 +6,7 @@
 * [Java性能分析神器-JProfiler详解（一）](https://blog.csdn.net/u013613428/article/details/53926825)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
+* [Java中equals和==的区别](https://zhuanlan.zhihu.com/p/100535691)
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
 * Calendar类:
