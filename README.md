@@ -1,18 +1,18 @@
 # 数据研发
 ## Java
 * [Mac OS配置JDK环境（详细）](https://blog.csdn.net/qq_41855420/article/details/103448248)
-* [javac不是内部或外部命令，也不是可运行的程序 或批处理文件的细节问题(window10)](https://blog.csdn.net/qq_40670946/article/details/90200364)
 * [为什么安装jdk后，根目录有jdk和jre两个文件夹。但是jdk下还有个jre？为什么会安装两个jre？](https://www.cnblogs.com/byx1024/p/12345126.html)
 * [Java性能分析神器-JProfiler详解（一）](https://blog.csdn.net/u013613428/article/details/53926825)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
 * [如何使用log.debug()](https://blog.csdn.net/qq_15037231/article/details/79645503)
 * [Java中equals和==的区别](https://zhuanlan.zhihu.com/p/100535691)
+* [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
-* Calendar类:
-   > - [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
-   > - [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
-   > - [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
+* **Calendar类:**
+   > * [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
+   > * [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
+   > * [java的日历类(Calendar)详解](https://www.jianshu.com/p/6ef54da8932e)
 * [轻松看懂Java字节码](https://juejin.im/post/6844903588716609543)
 * [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
 * [String.getBytes()和Bytes.toBytes(字符串数据)之间的区别](https://cloud.tencent.com/developer/ask/68532)
@@ -24,13 +24,13 @@
 * [Java this关键字](https://www.w3cschool.cn/java/java-this.html)
 * [getClass()和instanceof以及类的equals方法](https://www.cnblogs.com/Joey777210/p/11770454.html)
 * [Java高级系列——散列与散列码](https://blog.csdn.net/zyhlwzy/article/details/79816195)
-* [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 * [这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析](https://blog.csdn.net/qq_44543508/article/details/102983363)
-* Java运行错误及其解决:
+* **排错纠错:**
    > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
    > * [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
+   > * [javac不是内部或外部命令，也不是可运行的程序 或批处理文件的细节问题(window10)](https://blog.csdn.net/qq_40670946/article/details/90200364)
 ---
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
