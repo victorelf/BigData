@@ -34,6 +34,7 @@
 ---
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
+* [Method Overriding in Scala](https://www.geeksforgeeks.org/method-overriding-in-scala/)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
 * [Scala之Object](https://www.cnblogs.com/leesf456/p/6492626.html)
 * [scala 中的val 、 var 、def](https://blog.csdn.net/lisulong1/article/details/78783450)
