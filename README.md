@@ -207,6 +207,9 @@
 * [Apache Doris (Incubating) 原理与实践](https://www.infoq.cn/article/vxup94ub59ya*k0tnefe)
 * [MPP(大规模并行处理)简介](https://blog.csdn.net/qq_42189083/article/details/80610092)
 ---
+## Redis
+* [如何监控Redis的工作状态——INFO命令详解](http://ghoulich.xninja.org/2016/10/15/how-to-monitor-redis-status/)
+---
 ## 计算机基础
 * [【秒懂】byte的取值范围为什么是-128~127？](https://www.jianshu.com/p/47761557bab0)
 * [C语言基础--比特位与字节的关系，二进制、八进制、十六进制之间的转换，内存为什么使用十六进制？](https://blog.csdn.net/chenmozhe22/article/details/89035462)
