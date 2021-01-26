@@ -58,7 +58,6 @@
 ---
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
-* [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
@@ -86,6 +85,8 @@
  * [spark 学习整理](https://www.jianshu.com/p/c364a32d4493)
  * [解惑| spark实现业务前一定要掌握的点 driver & executor](https://zhuanlan.zhihu.com/p/94346878)
  * [Spark UDF使用详解及代码示例](https://www.jianshu.com/p/bded081b5350)
+ * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
+ * [Unable to infer schema when loading Parquet file](https://stackoverflow.com/questions/44954892/unable-to-infer-schema-when-loading-parquet-file)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
