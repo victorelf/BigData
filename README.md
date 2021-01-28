@@ -210,6 +210,7 @@
 ---
 ## Redis
 * [如何监控Redis的工作状态——INFO命令详解](http://ghoulich.xninja.org/2016/10/15/how-to-monitor-redis-status/)
+* [redis批量删除key 远程批量删除key](https://www.cnblogs.com/0201zcr/p/9647787.html)
 ---
 ## 计算机基础
 * [【秒懂】byte的取值范围为什么是-128~127？](https://www.jianshu.com/p/47761557bab0)
