@@ -31,6 +31,7 @@
    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
    > * [java.lang.ArrayIndexOutOfBoundsException](https://stackoverflow.com/questions/5554734/what-causes-a-java-lang-arrayindexoutofboundsexception-and-how-do-i-prevent-it#comment6316363_5554734)
    > * [javac不是内部或外部命令，也不是可运行的程序 或批处理文件的细节问题(window10)](https://blog.csdn.net/qq_40670946/article/details/90200364)
+   > * [“java.util.UnknownFormatConversionException: Conversion =](https://www.cnblogs.com/zhangliang88/p/10621167.html)
 ---
 ## Scala
 * [Scala中的override](https://www.cnblogs.com/yjf512/p/8026611.html)
