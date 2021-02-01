@@ -102,6 +102,7 @@
 * [带Left Join的SQL语句的执行顺序](https://www.cnblogs.com/mcad/p/4207033.html)
 * [sql语句执行步骤详解](https://www.lagou.com/lgeduarticle/76920.html)
 * [SELECT中常用的子查询操作](https://www.cnblogs.com/geaozhang/p/6756825.html)
+* [通俗易懂的学会：SQL窗口函数](https://zhuanlan.zhihu.com/p/92654574)
 * [mysql 时间戳格式化函数from_unixtime使用说明](https://blog.csdn.net/fdipzone/article/details/51018930)
 * [MySQL Binlog 介绍](https://laijianfeng.org/2019/03/MySQL-Binlog-%E4%BB%8B%E7%BB%8D/)
 * [MySQL学习笔记3：表的基本操作](https://www.cnblogs.com/nerxious/archive/2012/12/28/2837308.html)
