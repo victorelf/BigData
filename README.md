@@ -142,6 +142,7 @@
 * [在IDEA中配置及使用Maven的全过程](https://zhuanlan.zhihu.com/p/122429605#:~:text=%E7%82%B9%E5%87%BBIDEA%E5%B7%A6%E4%B8%8A%E8%A7%92%E7%9A%84%20File%20-%3E%20Other%20Settings%20-%3E%20Settings,for%20New%20Projects%20-%3E%E5%9C%A8%20Build%20Tools%20%E4%B8%AD%E6%89%BE%E5%88%B0Maven%EF%BC%8C%E4%BF%AE%E6%94%B9%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95%E3%80%81%E8%AE%BE%E7%BD%AE%E3%80%81%E4%BB%93%E5%BA%93%E7%9A%84%E6%89%80%E5%9C%A8%E4%BD%8D%E7%BD%AE.)
 * [MAVEN简介之——settings.xml](https://yq.aliyun.com/articles/625836)
 * [IDEA中Git的更新、提交、还原方法](https://blog.csdn.net/geng31/article/details/78585557)
+* [IntelliJ IDEA 中 右键新建时，选项没有Java class的解决方法和具体解释](https://blog.csdn.net/qq_27093465/article/details/52912444)
 ---
 ## Linux、shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
