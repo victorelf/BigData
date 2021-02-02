@@ -9,6 +9,7 @@
 * [equals 和 == 的区别](https://www.jianshu.com/p/9cbed9f33a4d)
 * [序列化理解起来很简单](https://zhuanlan.zhihu.com/p/40462507)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
+* [Java 8 Date-Time API 详解](https://www.cnblogs.com/IcanFixIt/p/8539007.html)
 * **Calendar类:**
    > * [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
    > * [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
