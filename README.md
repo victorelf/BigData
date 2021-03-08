@@ -206,6 +206,7 @@
 * [Hadoop----hdfs dfs常用命令的使用](https://www.cnblogs.com/zyanrong/p/11774997.html)
 * [Hadoop数据复制DistCp](https://blog.csdn.net/SunnyYoona/article/details/54668028)
 * [Hive与HBase的区别与联系](https://www.cnblogs.com/cainiao-chuanqi/p/12080396.html)
+* [hive函数 -- split 字符串分割函数](https://blog.csdn.net/lxpbs8851/article/details/18712407)
 ---
 ## Druid
 * [druid上传数据index文件配置](https://www.jianshu.com/p/35561ece0fdb)
