@@ -110,6 +110,9 @@
 * [MySQL学习笔记3：表的基本操作](https://www.cnblogs.com/nerxious/archive/2012/12/28/2837308.html)
 * [深入详解SQL中的Null](https://blog.csdn.net/renfufei/article/details/44420539)
 ---
+## Python
+* [python中的len(sys.argv)简明解释](https://blog.csdn.net/weixin_45211381/article/details/107882533)
+---
 ## Mac、iTerm
 * [MAC电脑必收藏网站，有很多适配软件](https://macwk.com)
 * [Mac使用技巧大整合：基础篇+进阶篇](https://zhuanlan.zhihu.com/p/89987302)
