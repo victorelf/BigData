@@ -65,6 +65,7 @@
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
+* [sparksql 时间函数](https://blog.csdn.net/qq_33283716/article/details/81043264)
 * [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
 * [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
