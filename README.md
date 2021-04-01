@@ -92,6 +92,7 @@
  * [Spark UDF使用详解及代码示例](https://www.jianshu.com/p/bded081b5350)
  * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
  * [Unable to infer schema when loading Parquet file](https://stackoverflow.com/questions/44954892/unable-to-infer-schema-when-loading-parquet-file)
+ * [spark Container killed on request. Exit code is 143 解决办法](http://blog.51yip.com/hadoop/2123.html)
 ---
 ## SQL
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
