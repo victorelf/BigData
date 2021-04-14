@@ -65,6 +65,7 @@
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
+* [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/)
 * [Spark SQL：怎样修改DataFrame列的数据类型？](https://zhuanlan.zhihu.com/p/148648985)
 * [sparksql 时间函数](https://blog.csdn.net/qq_33283716/article/details/81043264)
 * [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
