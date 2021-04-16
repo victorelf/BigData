@@ -200,6 +200,7 @@
 * [Flink状态管理详解：Keyed State和Operator List State深度解析](https://juejin.im/post/6844904053512601607)
 * [Flink算子使用方法及实例演示：map、filter和flatMap](https://cloud.tencent.com/developer/article/1559993)
 * [聊聊flink的checkpoint配置](https://segmentfault.com/a/1190000017312195)
+* [Flink Checkpoint 原理流程以及常见失败原因分析](https://mp.weixin.qq.com/s?__biz=MzAxOTY5MDMxNA==&mid=2455760562&idx=1&sn=4747f5d1d07c0a30113144a147a30c9d&chksm=8c686897bb1fe181a45b49d6befc4126c3cb27599345d483fd97ce5c5e7723315ff613dd50f0&scene=27#wechat_redirect)
 ---
 ## Hbase、Hive、HDFS
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
