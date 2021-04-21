@@ -41,6 +41,7 @@
 * [Method Overriding in Scala](https://www.geeksforgeeks.org/method-overriding-in-scala/)
 * [Scala-基础知识](https://blog.csdn.net/Arne_/article/details/96181121)
 * [Scala之Object](https://www.cnblogs.com/leesf456/p/6492626.html)
+* [开发工具-scala处理json格式利器-json4s](https://segmentfault.com/a/1190000039300095)
 * [scala 中的val 、 var 、def](https://blog.csdn.net/lisulong1/article/details/78783450)
 * [What does a lazy val do?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
 * [scala在IDEA中图标的解释](https://www.jianshu.com/p/8887b685c8b9)
