@@ -50,6 +50,7 @@
 * [What is the apply function in Scala?](https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala)
 * [Scala中的Map使用例子](https://blog.csdn.net/u010454030/article/details/53899587)
 * [How to use a Range in Scala (Range class examples)](https://alvinalexander.com/scala/how-to-use-range-class-in-scala-cookbook/)
+* [Scala implicit 使用简介](http://icejoywoo.github.io/2018/12/29/scala-implicit.html)
 * **符号相关:**
   > * [Scala 特殊符号操作符汇总](https://notes.mengxin.science/2018/09/07/scala-special-symbol-usage/)
   > * [Scala maps -> operator](https://stackoverflow.com/questions/4980515/scala-maps-operator)
