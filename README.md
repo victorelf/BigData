@@ -76,6 +76,7 @@
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
 * [Spark Streaming 编程指南](https://spark-reference-doc-cn.readthedocs.io/zh_CN/latest/programming-guide/streaming-guide.html)
 * [Spark流处理中的DStrem.foreachRDD()方法](https://blog.csdn.net/Yaokai_AssultMaster/article/details/71915640)
+* [Spark中foreachRDD、foreachPartition和foreach解读](https://blog.csdn.net/qq_44868502/article/details/103314539)
 * [Spark union of multiple RDDs](https://stackoverflow.com/questions/33743978/spark-union-of-multiple-rdds)
   > **RDD.union vs SparkContex.union**: SparkContext.union and RDD.union are equivalent, if you have two RDDs.Reducing over a list of RDDs and calling RDD.union will result in several nested UnionRDDs (referencing each other), where the call to SparkContext.union will result in only a single UnionRDD.
 * [Spark SQL 开发小结](https://cloud.tencent.com/developer/article/1005690)
