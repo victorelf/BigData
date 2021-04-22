@@ -72,6 +72,7 @@
 * [sparksql 时间函数](https://blog.csdn.net/qq_33283716/article/details/81043264)
 * [SparkSession — The Entry Point to Spark SQL](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-SparkSession.html)
 * [SparkSession](https://www.jianshu.com/p/4705988b0c84)
+* [spark RDD 的map与flatmap区别说明](https://blog.csdn.net/WYpersist/article/details/80220211)
 * [Spark Persistence Storage Levels](https://sparkbyexamples.com/spark/spark-persistence-storage-levels/)
 * [Spark DataFrame Cache and Persist Explained](https://sparkbyexamples.com/spark/spark-dataframe-cache-and-persist-explained/)
 * [Spark Streaming 编程指南](https://spark-reference-doc-cn.readthedocs.io/zh_CN/latest/programming-guide/streaming-guide.html)
