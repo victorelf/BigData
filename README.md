@@ -93,6 +93,7 @@
   > * [spark rdd元素println](https://www.cnblogs.com/shaozhiqi/p/11634035.html)
   > * [RDD,DataFrame,DataSet之间相互转换](https://www.huaweicloud.com/articles/a87455c6b53ec81312f29bf35f86ad03.html)
   > * [Spark学习之路 （十七）Spark分区](https://www.cnblogs.com/qingyunzong/p/8987065.html)
+  > * [spark rdd zipWithIndex 与 zipWithUniqueId 详解](http://bcxw.net/article/405.html)
  * [spark源码阅读笔记Dataset（三）structField、structType、schame](https://blog.csdn.net/legotime/article/details/52643243)
  * [am-memory，driver-memory，executor-memory](https://blog.csdn.net/woloqun/article/details/102601953)
  * [spark出现task不能序列化错误的解决方法 org.apache.spark.SparkException: Task not serializable](https://www.cnblogs.com/zwchan/p/4305156.html)
