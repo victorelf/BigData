@@ -109,6 +109,7 @@
 * [SQL发音考证（搜寻SQL-86标准）](https://www.cnblogs.com/tuohai666/p/8835898.html)
 * [SQL教程](https://www.yiibai.com/sql/sql-syntax.html)
 * [主键(primary key)和唯一键(unique) 知识点总结](https://www.jianshu.com/p/b09dfc85c235)
+* [sql： where 条件中 AND、OR 运算符的组合使用](https://blog.csdn.net/dhfzhishi/article/details/73528688)
 * [sql语句中as的用法和作用](https://www.cnblogs.com/zhaotiancheng/p/6692553.html)
 * [数据库中Schema（模式）概念的理解](https://www.cnblogs.com/csniper/p/5509620.html)
 * [SQL的SUBSTR()函数](https://blog.csdn.net/howlaa/article/details/16825761)
