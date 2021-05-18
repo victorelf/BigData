@@ -61,6 +61,7 @@
 * [scala中map和foreach的区别](https://blog.csdn.net/qq_26398033/article/details/52472476)
 * [“new” keyword in Scala](https://stackoverflow.com/questions/9727637/new-keyword-in-scala)
 * [Scala中的for/yield详解](https://blog.csdn.net/qq_36330643/article/details/76227051)
+* [Scala 集合：Seq API](https://www.zhenchao.org/2018/05/17/scala/scala-collection-seq/)
 * [reduceByKey(_+_) reduceByKey((x,y) => x+y)的用法](http://www.mark-to-win.com/tutorial/mydb_SparkScala_SparkreduceByKey__Usage.html)
 ---
 ## Spark
