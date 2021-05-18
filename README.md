@@ -272,5 +272,6 @@
 * [OneNote 代码高亮方法总结](https://go2think.com/onenote-code-highlight/)
 * [log4j的8个日志级别（OFF、FATAL、ERROR、WARN、INFO、DEBUG、TRACE、 ALL）](https://blog.csdn.net/shiyong1949/article/details/52643711)
 * [GMT,UTC,DST,CST 各种时间标准](https://ahuigo.github.io/b/c/shell-time#/)
-
+* [正则表达式,看完这篇还是不够的。](https://www.huaweicloud.com/articles/b90f50ab848a87dc640806f95fa8ebee.html)
+  > * [轻松学习正则表达式](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md#41--%E6%AD%A3%E5%85%88%E8%A1%8C%E6%96%AD%E8%A8%80)
 
