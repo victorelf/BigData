@@ -103,6 +103,7 @@
  * [解惑| spark实现业务前一定要掌握的点 driver & executor](https://zhuanlan.zhihu.com/p/94346878)
  * [Spark UDF使用详解及代码示例](https://www.jianshu.com/p/bded081b5350)
  * [Spark排错与优化](https://www.cnblogs.com/suanec/p/7127779.html)
+ * [Spark Cache的几点思考](https://blog.csdn.net/qq_27639777/article/details/82319560)
  * [Unable to infer schema when loading Parquet file](https://stackoverflow.com/questions/44954892/unable-to-infer-schema-when-loading-parquet-file)
  * [spark Container killed on request. Exit code is 143 解决办法](http://blog.51yip.com/hadoop/2123.html)
 ---
