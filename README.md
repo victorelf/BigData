@@ -1,6 +1,7 @@
 # 数据研发
 ## Java
 * [Mac OS配置JDK环境（详细）](https://blog.csdn.net/qq_41855420/article/details/103448248)
+* [Thrift框架详解（三）](https://jasonlees.netlify.app/article/java-thrift-3/)
 * [为什么安装jdk后，根目录有jdk和jre两个文件夹。但是jdk下还有个jre？为什么会安装两个jre？](https://www.cnblogs.com/byx1024/p/12345126.html)
 * [Java性能分析神器-JProfiler详解（一）](https://blog.csdn.net/u013613428/article/details/53926825)
 * [Wed Jul 22 00:00:00 CST 2020 java转成指定日期格式的字符串](https://blog.csdn.net/weixin_42488402/article/details/108086916)
