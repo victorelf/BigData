@@ -29,6 +29,7 @@
 * [关于Java Lambda表达式看这一篇就够了](https://objcoding.com/2019/03/04/lambda/)
 * [这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析](https://blog.csdn.net/qq_44543508/article/details/102983363)
 * [Java魔法堂：String.format详解](https://www.cnblogs.com/fsjohnhuang/p/4094777.html)
+* [关于Java正则和转义中\\和\\\\的理解](https://segmentfault.com/a/1190000020038597)
 * **排错纠错:**
    > * [Java中的ExceptionInInitializerError 异常解决方法](https://blog.csdn.net/xie_xiansheng/article/details/50831623)
    > * [java.lang.NullPointerException出现的几种原因以及解决](https://blog.csdn.net/qq_44543508/article/details/94589868)
