@@ -194,6 +194,7 @@
 * [linux shell 字符串操作详解 （长度，读取，替换，截取，连接，对比，删除，位置 ）](https://www.cnblogs.com/gaochsh/p/6901809.html)
 * [linux中shell变量$#,$@,$0,$1,$2的含义解释](https://www.cnblogs.com/fhefh/archive/2011/04/15/2017613.html)
 * [shell 学习的 wiki](https://wiki.jikexueyuan.com/project/shell-learning/shell-learning-second-day.html)
+* [关于shell 的一些小技巧](https://segmentfault.com/a/1190000039156353)
 * [关于source /etc/profile命令](https://blog.csdn.net/anhuidelinger/article/details/8742907)
 * [Shell文件权限和脚本执行](https://www.cnblogs.com/chinas/p/5557727.html)
 * [linux里source、sh、bash、./有什么区别](https://www.cnblogs.com/pcat/p/5467188.html)
