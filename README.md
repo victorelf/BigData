@@ -131,6 +131,7 @@
 * [MySQL学习笔记3：表的基本操作](https://www.cnblogs.com/nerxious/archive/2012/12/28/2837308.html)
 * [深入详解SQL中的Null](https://blog.csdn.net/renfufei/article/details/44420539)
 * [《SQL 必知必会》笔记 3 - 过滤 where、and、or、in、通配符](https://www.jianshu.com/p/7d847c23e2b8)
+* [sql 表连接on后面加where和and的区别](https://blog.csdn.net/qq_32489573/article/details/100011124)
 ---
 ## Python
 * [python中的len(sys.argv)简明解释](https://blog.csdn.net/weixin_45211381/article/details/107882533)
