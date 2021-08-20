@@ -283,4 +283,5 @@
 * [正则表达式,看完这篇还是不够的。](https://www.huaweicloud.com/articles/b90f50ab848a87dc640806f95fa8ebee.html)
   > * [轻松学习正则表达式](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md#41--%E6%AD%A3%E5%85%88%E8%A1%8C%E6%96%AD%E8%A8%80)
 * [关于正则表达式中的.*，.*?，.+?的理解](https://bbs.huaweicloud.com/blogs/200801)
+* [Git 解决代码提交的冲突](https://support.huaweicloud.com/usermanual-codehub/devcloud_hlp_0934.html)
 
