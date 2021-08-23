@@ -88,6 +88,7 @@
 * [SPARK-SQL 内置函数之字符串函数](https://www.cnblogs.com/feiyumo/p/8763186.html)
 * [sparksql 正则匹配总结](https://blog.csdn.net/lvdan1/article/details/78340231)
 * [【Spark】遍历DataFrame中的每一行数据](https://blog.csdn.net/m0_37773338/article/details/104098441)
+* [SparkSql系列(2/25)-使用withColumn](https://www.deeplearn.me/4028.html)
 * **RDD：**
   > * [Spark学习之路 （三）Spark之RDD](https://www.cnblogs.com/qingyunzong/p/8899715.html)
   > * [Spark RDD（Resilient Distributed Datasets）](https://spark.apachecn.org/#/docs/paper)
