@@ -21,6 +21,7 @@
 * [String.getBytes()和Bytes.toBytes(字符串数据)之间的区别](https://cloud.tencent.com/developer/ask/68532)
 * [Java 基础——构造器和方法的区别](https://blog.csdn.net/zqixiao_09/article/details/50550035)
 * [static 关键字有什么作用](https://zhuanlan.zhihu.com/p/73704288)
+* [public static void main(String args[])什么意思？](https://www.cnblogs.com/ningvsban/p/3590486.html)
 * [声明类型和实际类型，以及多态](https://blog.51cto.com/cnn237111/606545)
 * [理解静态绑定与动态绑定](https://juejin.im/post/6844903953931436040)
 * [jvm之方法内联优化](https://zhuanlan.zhihu.com/p/55630861)
