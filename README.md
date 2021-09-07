@@ -12,6 +12,7 @@
 * [为什么使用private static final](https://www.cnblogs.com/notably/p/11791542.html)
 * [深入理解Java：SimpleDateFormat安全的时间格式化](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
 * [Java 8 Date-Time API 详解](https://www.cnblogs.com/IcanFixIt/p/8539007.html)
+* [Java transient关键字使用小记](https://www.cnblogs.com/lanxuezaipiao/p/3369962.html)
 * **Calendar类:**
    > * [【推荐】Calendar类](https://blueblue233.github.io/blog/ab9972d8/)
    > * [java基础系列--Calendar类](https://www.cnblogs.com/peida/archive/2013/05/31/3070790.html)
