@@ -226,6 +226,7 @@
 * [Flink Redis Connector](https://bahir.apache.org/docs/flink/current/flink-streaming-redis/)
 * [Flink教程-将流式数据写入redis](https://cloud.tencent.com/developer/article/1697916)
 * [开源组件Flink关于redisSink业务需求改造分享](https://www.modb.pro/db/32008)
+* [Flink下沉数据到Redis的两种方式](https://www.codeleading.com/article/25315987404/)
 ---
 ## Hbase、Hive、HDFS
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
