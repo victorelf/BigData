@@ -230,6 +230,7 @@
 * [Flink下沉数据到Redis的两种方式](https://www.codeleading.com/article/25315987404/)
 * [大数据实时计算引擎 Flink 实战与性能优化](https://flymetothemars.github.io/2019/11/14/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E5%BC%95%E6%93%8E%20Flink%20%E5%AE%9E%E6%88%98%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
 * [Flink流处理API代码详解，含多种Source、Transform、Sink案例，Flink学习入门（二）](https://segmentfault.com/a/1190000022953369)
+* [Flink Broadcast State 实战指南](http://smartsi.club/a-practical-guide-to-broadcast-state-in-apache-flink.html)
 ---
 ## Hbase、Hive、HDFS
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
