@@ -234,6 +234,7 @@
 * [过一下Flink的各种State](https://juejin.cn/post/6844904104041414664#heading-13)
 * [Flink 状态(State)管理与恢复](https://cloud.tencent.com/developer/article/1812463)
 * [Flink进阶教程：数据类型和序列化机制简介](https://cloud.tencent.com/developer/article/1573059)
+* [Flink使用Broadcast State实现流处理配置实时更新](https://cloud.tencent.com/developer/article/1586987)
 ---
 ## Hbase、Hive、HDFS
 * [入门HBase](https://mp.weixin.qq.com/s?__biz=MzU5OTM5NjQ2NA==&mid=2247483760&idx=1&sn=0f4db0c81d59d977769b4ec0c626ade2&chksm=feb4d86fc9c35179b35f91c204e615277f7651db1baf3b38c8cde02d221936080c0852ff9d90&token=298207629&lang=zh_CN&scene=21#wechat_redirect)
