@@ -73,6 +73,7 @@
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
+* [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
 * [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/)
 * [Spark SQL：怎样修改DataFrame列的数据类型？](https://zhuanlan.zhihu.com/p/148648985)
