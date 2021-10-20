@@ -235,6 +235,7 @@
 * [大数据实时计算引擎 Flink 实战与性能优化](https://flymetothemars.github.io/2019/11/14/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E5%BC%95%E6%93%8E%20Flink%20%E5%AE%9E%E6%88%98%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
 * [Flink流处理API代码详解，含多种Source、Transform、Sink案例，Flink学习入门（二）](https://segmentfault.com/a/1190000022953369)
 * [Flink Broadcast State 实战指南](http://smartsi.club/a-practical-guide-to-broadcast-state-in-apache-flink.html)
+* [【官方文档】Flink Broadcast State 模式](https://ci.apache.org/projects/flink/flink-docs-release-1.13/zh/docs/dev/datastream/fault-tolerance/broadcast_state/)
 * [过一下Flink的各种State](https://juejin.cn/post/6844904104041414664#heading-13)
 * [Flink 状态(State)管理与恢复](https://cloud.tencent.com/developer/article/1812463)
 * [Flink进阶教程：数据类型和序列化机制简介](https://cloud.tencent.com/developer/article/1573059)
