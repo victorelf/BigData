@@ -215,6 +215,7 @@
 * [在 Linux shell 中自由操作时间变量](https://www.cnblogs.com/zyanrong/p/11774997.html)
 * [每天学一个 Linux 命令（11）：cp](https://segmentfault.com/a/1190000038754092)
 * [更改linux文件/目录的权限、拥有者及用户组](https://www.jianshu.com/p/21aca64dad91)
+* [Linux crontab命令参数和时间格式说明](https://www.cnblogs.com/Alcesttt/p/11703248.html)
 * **排错纠错：**
   > * [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
   > * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
