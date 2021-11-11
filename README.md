@@ -74,6 +74,7 @@
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [spark partition 理解 / coalesce 与 repartition的区别](https://www.cnblogs.com/jiangxiaoxian/p/9539760.html)
+* [Spark广播变量原理分析](https://blog.51cto.com/u_15067227/2573521)
 * [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
 * [Spark SQL Guide](https://spark.apache.org/docs/latest/sql-getting-started.html)
 * [Spark SQL, Built-in Functions](https://spark.apache.org/docs/latest/api/sql/)
