@@ -298,6 +298,7 @@
 ---
 ## 电商业务类
 * [订单全流程：从父订单到仓库出库单](http://www.woshipm.com/pd/2613252.html)
+* [数据扫盲（1）：我们常说的DAU、MAU是啥？](http://www.woshipm.com/pmd/3296031.html)
 * [电商后台产品设计：订单拆单](http://www.woshipm.com/pd/597257.html)
 * [说说移动设备的各种标识码（DeviceID, IMEI, UUID, UDID, OAID, IDFA, GAID](https://blog.csdn.net/Elenal/article/details/107006429)
 ---
