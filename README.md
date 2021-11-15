@@ -72,6 +72,7 @@
 ## Spark
 * [spark job， stage ，task介绍](https://www.cnblogs.com/missmzt/p/6078189.html)
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
+* [Spark基础：读写JDBC](https://zhuanlan.zhihu.com/p/148556552)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
 * [spark partition 理解 / coalesce 与 repartition的区别](https://www.cnblogs.com/jiangxiaoxian/p/9539760.html)
 * [Spark广播变量原理分析](https://blog.51cto.com/u_15067227/2573521)
