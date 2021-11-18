@@ -291,6 +291,7 @@
 * [主流开源OLAP引擎：Hive、Sparksql、Presto、Kylin、Impala、Druid等的介绍](https://my.oschina.net/dataclub/blog/4346551)
 * [『 懒人10分钟—大数据篇（一）』数据建模是什么？](https://cloud.tencent.com/developer/article/1514589)
 * [数据倾斜](https://zhuanlan.zhihu.com/p/64240857)
+* [[数据仓库]分层概念,ODS,DM,DWD,DWS,DIM的概念](https://blog.csdn.net/pmdream/article/details/113601956)
 * [大数据知识](https://www.yuque.com/zhangyiwang/yqm7oo)
 * [大数据离线与实时计算](https://developer.aliyun.com/article/722346)
 * [iOS获取设备唯一标识的各种方法？IDFA、IDFV、UDID,UUID分别是什么含义？](https://blog.csdn.net/u013705509/article/details/51576724)
