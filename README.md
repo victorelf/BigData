@@ -74,6 +74,7 @@
 * [spark基础入门-名词概念](https://www.jianshu.com/p/efb889831b7f)
 * [Spark基础：读写JDBC](https://zhuanlan.zhihu.com/p/148556552)
 * [spark大数据架构初学入门基础详解](https://www.jianshu.com/p/f1245a1a3343)
+* [Spark 序列化问题全解](https://blog.csdn.net/JIESA/article/details/79996053)
 * [spark partition 理解 / coalesce 与 repartition的区别](https://www.cnblogs.com/jiangxiaoxian/p/9539760.html)
 * [Spark广播变量原理分析](https://blog.51cto.com/u_15067227/2573521)
 * [Spark性能优化指南——基础篇](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
