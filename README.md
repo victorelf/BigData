@@ -317,4 +317,5 @@
 * [关于正则表达式中的.*，.*?，.+?的理解](https://bbs.huaweicloud.com/blogs/200801)
 * [Git 解决代码提交的冲突](https://support.huaweicloud.com/usermanual-codehub/devcloud_hlp_0934.html)
 * [hive parquet table 配置使用压缩](https://blog.csdn.net/xiao_jun_0820/article/details/76893331)
+* [hive存储格式parquet](https://www.codeleading.com/article/54001680585/)
 
