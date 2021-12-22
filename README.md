@@ -220,6 +220,7 @@
 * [每天学一个 Linux 命令（11）：cp](https://segmentfault.com/a/1190000038754092)
 * [更改linux文件/目录的权限、拥有者及用户组](https://www.jianshu.com/p/21aca64dad91)
 * [Linux crontab命令参数和时间格式说明](https://www.cnblogs.com/Alcesttt/p/11703248.html)
+* [Linux统计文件夹下的文件数目](http://noahsnail.com/2017/02/07/2017-02-07-Linux%E7%BB%9F%E8%AE%A1%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E6%95%B0%E7%9B%AE/)
 * **排错纠错：**
   > * [shell脚本报错：-bash: xxx: /bin/bash^M: bad interpreter: No such file or directory](https://www.cnblogs.com/zyb-pp/p/6429448.html)
   > * [在终端连接ssh的断开关闭退出的方法](https://blog.csdn.net/zhichaosong/article/details/89193767)
