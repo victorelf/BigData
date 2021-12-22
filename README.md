@@ -145,6 +145,7 @@
 * [binlog介绍](https://www.cnblogs.com/dadonggg/p/8617826.html)
 * [带你解析 MySQL binlog](https://xie.infoq.cn/article/55182ed3dc7650580041a1382)
 * [Mysql的Binlog原理](https://segmentfault.com/a/1190000039132951)
+* [Hive Distribute by 应用之动态分区小文件过多问题优化](https://icode.best/i/9357821214)
 ---
 ## Python
 * [python中的len(sys.argv)简明解释](https://blog.csdn.net/weixin_45211381/article/details/107882533)
