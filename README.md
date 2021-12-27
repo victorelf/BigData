@@ -320,4 +320,6 @@
 * [Git 解决代码提交的冲突](https://support.huaweicloud.com/usermanual-codehub/devcloud_hlp_0934.html)
 * [hive parquet table 配置使用压缩](https://blog.csdn.net/xiao_jun_0820/article/details/76893331)
 * [hive存储格式parquet](https://www.codeleading.com/article/54001680585/)
+* [关于URL编码](https://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
+* [如何解码一个被编码了不知道多少次的url地址](https://blog.csdn.net/weixin_39918248/article/details/110793978)
 
