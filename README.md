@@ -185,6 +185,7 @@
 * [MAVEN简介之——settings.xml](https://yq.aliyun.com/articles/625836)
 * [IDEA中Git的更新、提交、还原方法](https://blog.csdn.net/geng31/article/details/78585557)
 * [IntelliJ IDEA 中 右键新建时，选项没有Java class的解决方法和具体解释](https://blog.csdn.net/qq_27093465/article/details/52912444)
+* [idea使用技巧总结，超实用（2年mac idea使用经验）](https://blog.csdn.net/kqZhu/article/details/115522979)
 ---
 ## Linux、shell 
 * [shell脚本第一行：#!/bin/bash的含义](https://blog.csdn.net/iot_flower/article/details/69055590)
