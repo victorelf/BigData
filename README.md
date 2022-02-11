@@ -302,6 +302,7 @@
 * [iOS获取设备唯一标识的各种方法？IDFA、IDFV、UDID,UUID分别是什么含义？](https://blog.csdn.net/u013705509/article/details/51576724)
 * [Parquet文件结构笔记](https://www.cnblogs.com/panpanwelcome/p/10250172.html)
 * [Spark Option: inferSchema vs header = true](https://stackoverflow.com/questions/56927329/spark-option-inferschema-vs-header-true/56933052)
+* [数据库schema与catalog简介](https://www.cnblogs.com/ECNB/p/4611309.html)
 ---
 ## 电商业务类
 * [订单全流程：从父订单到仓库出库单](http://www.woshipm.com/pd/2613252.html)
